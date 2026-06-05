@@ -1,6 +1,6 @@
-<div align="center">
-
 # xi-kari
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=2F81F7&center=true&vCenter=true&width=760&height=58&lines=code+with+structure;tools+with+quiet+edges;small+things%2C+made+well)](https://git.io/typing-svg)
 
