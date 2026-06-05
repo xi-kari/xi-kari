@@ -43,14 +43,11 @@ const profile = {
 - Maintaining [crossframe-skill](https://github.com/xi-kari/crossframe-skill).
 - Polishing small tools until they feel obvious.
 
-### Pulse
+### Focus Map
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xi-kari&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=39D2AE&text_color=C9D1D9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xi-kari&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
-
-</div>
+<p align="center">
+  <img src="./assets/focus-map.svg" alt="xi-kari focus map" />
+</p>
 
 ### Contribution Snake
 
