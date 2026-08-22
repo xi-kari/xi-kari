@@ -19,13 +19,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      # Dawn palette (東雲):
+      #   dark  — a dawn-gold snake crossing a night sky of indigo days
+      #   light — a night-indigo snake crossing a field of pale dawn
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/dawn-snake-dark.svg?color_snake=#E8B84B&color_dots=#10152E,#1D2547,#2C3A72,#45549E,#8A76B5
+            dist/dawn-snake-light.svg?color_snake=#23263B&color_dots=#EFECE6,#F1DCC8,#E6B9AE,#C793A0,#8F7FB0
 
       - name: Publish snake SVGs
         run: |
