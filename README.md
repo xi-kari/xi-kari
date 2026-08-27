@@ -15,9 +15,9 @@
 <br>
 
 <p align="center">
-让 AI 理解世界，让 AI 服务于人，为人民服务。
+<strong>『真理是溶解世界万物的溶剂，因而绝无法在客观上存在』</strong>
 <br><br>
-<sub>AI that understands the world — AI in the service of people.</sub>
+<sub><em>Truth is the solvent in which all things dissolve—and for that very reason, it can have no objective existence of its own.</em></sub>
 </p>
 
 <br>
