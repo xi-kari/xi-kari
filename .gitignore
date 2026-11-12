@@ -1,1 +1,3 @@
 tools/fonts/
+__pycache__/
+preview.html
